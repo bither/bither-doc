@@ -1,5 +1,5 @@
 # 比太钱包 <https://bither.net> #
-![bither-120.png](/Users/zhangbo/Desktop/bither_120.png )
+![bither-120.png](images/bither_120.png )
 <img>
 
 </img>
