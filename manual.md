@@ -149,6 +149,10 @@
 
 *2.冷HD账户以及生成的私钥*:
 
+冷钱包也是需要创建HD账户以及私钥的，操作方法和热钱包是一样的其实~ 冷HD账户也就是私钥的集群，私钥就是来进行解密和为交易签名的最重要的资源。
+
+![createCold](images/Screenshot_2015-12-03-13-47-36_net.bither.png)
+
 没有创建私钥的界面;（只有冷HD账户）
 ![twoBtn](images/Screenshot_2015-12-03-13-06-20_net.bither.png)
 
@@ -160,7 +164,7 @@
 
 图上面有详细的描述哦~
 
-![settings](images/Screenshot_2015-12-03-13-24-07_net_bither.png)
+![settings](images/Screenshot_2015-12-03-13-24-07_n1et_bither.png)
 
 高级选项里面的东西并不难懂，大家可以点开看一下~
 
