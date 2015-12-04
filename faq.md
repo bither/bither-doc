@@ -9,7 +9,7 @@
 大家可以通过下面这个链接下载到你所需要比太的客户端，比太钱包支持android、iOS、以及桌面版，小伙伴们可以根据需要来下载哦~
 
 ![bitherwallet](images/bither_120.png)
-#[比太钱包](https://bither.net)
+###[比太钱包](https://bither.net)  
 
 ####3.私钥的备份、HD账户的备份、和HD账户的恢复如何实现？
 
