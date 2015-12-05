@@ -14,7 +14,7 @@ You can download via the following links to your bitherwallet client needs , bit
 
 *Private Key Backup*：
 
-Choose what you need to back up the private key -> Details top right corner of the interface of the three point button -> Key Management -> Select convenient way do you think the backup
+Choose what you need to back up the private key -> Details top right corner of the interface of the three point button -> private Key Management -> Select convenient way do you think the backup
 
 *Backup HD Account*:
 
@@ -22,7 +22,7 @@ HD account details Interface -> detail three points right corner of the interfac
 
 *Recovery HD Account*:
 
-When you uninstall bither but you have a backup account seed HD and HD-QR code of the account passphrase (any required) -> Settings button -> Advanced Options -> Import private key -> (two-dimensional code from the HD seed, from HD passphrase can be restored)
+When you uninstall bither but you have a backup account seed HD and HD-QR code of the account passphrase (any required) -> Settings button -> Advanced Options -> Import private key -> (from Bither Private Key QR Code, from HD passphrase can be restored)
 
 ####4.How bither see if synchronized to the latest block?
 
@@ -34,13 +34,13 @@ We consider adjusting the HDM model, the future may be provided through differen
 
 ####6.bitherwallet address too much, I want to clear these addresses, how to do?
 
-Select the address you want to remove -> detail three dots button to the top right corner of the interface -> Key Management -> moved to the Recycle Bin
+Select the address you want to remove -> detail three dots button to the top right corner of the interface ->Private Key Management -> moved to the Recycle Bin
 
 ####7.bither flow relatively large consumption Why? How to solve this problem?
 
 bitherWallet is based on P2P networks to keep pace, the traffic may be more, but certainly not browse microblogging, browse letter circle of friends spent traffic, if you flow under very tight, and there is no WIFI in the situation can be:
 
-Settings button -> Advanced Options -> Network Settings -> only wifi synchronous
+Settings button -> Advanced Options -> Network Setting -> Sync over wifi only
 
 Because bither current logic is only in sync to the latest situation to publish trading block, so temporarily unable to distinguish between flow settings sync blocks and sending transactions.
 
@@ -58,7 +58,7 @@ Use cold wallets are safe, but according to the logic, the better the mobile sid
 
 Smart phone operating system> Computer Operating System> Browser
 
-####10.private key QR Code（decryption）and private key  expressly What is the difference?
+####10.private key QR Code（decryption）and private key  Text What is the difference?
 
 One is QR Code display for easy scanning, one can directly copy down the order after use.
 
