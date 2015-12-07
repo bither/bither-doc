@@ -103,4 +103,4 @@ Note: Your QR Code backup how hackers stole? Cold is the Pirates do not go.
 
 ####18.Bitcoin address is established can not be found to be bither of others? Is it possible by law enforcement agencies to track down than I held too Bitcoin?
 
-bither is to the center of the wallet, bither generated address with bitcoin-core makes no difference, only the address nobody can infer more information. Ratio too is decentralized wallet, I do not know what are your currency.
+bither is to the center of the wallet, bither generated address with bitcoin-core makes no diffs, only the address nobody can infer more information. Ratio too is decentralized wallet, I do not know what are your currency.
