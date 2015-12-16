@@ -3,12 +3,15 @@
 ![bither-120.png](images/bither_120.png)
 
 ### Use bither to manage Bitcoin
+
 #### How to use bither?
+
 It's so important to some users to want to use bither.how to use bither? It is easy to use bither.Once you have the proper use, you will be able to properly take good care of our bitcoin. So then please follow me  to learn how to use bither.
 
-#####1. Hot wallet:
+##### 1. Hot wallet:
 
 *Connected to the network*:
+
 Directly into the interface,The background image so cute! (*^__^*)
 
 ![logIN](images/Screenshot_2015-12-02-13-27-09_net_bither.png)
@@ -32,6 +35,7 @@ Creating successful HD accounts saved in your phone inside, save HD seed, he can
 ![](images/Screenshot_2015-12-02-17-50-03_net_bither.png)
 
 
+
 okay ~ understand these let us look bither interface arrangement and functional use of it.
 
 The first button: bither menu provided to the user market is very professional and accurate, we can see that the price of Bitcoin different trading platforms as well as changes in market trend here.
@@ -39,6 +43,7 @@ The first button: bither menu provided to the user market is very professional a
 ![hangqing](images/Screenshot_2015-12-02-13-32-18_net.bither.png)
 
 The second button: Store is your HD account address, and hot wallet address, click again to see a list of your assets distributed.
+
 
 
 Well, you now have HD account and hot wallet address, as shown below, so we all know the importance of the private key, the private key for us at bither management.
@@ -62,11 +67,13 @@ Click the distribution list of assets the second button again:
 ![property](images/5d44b2bb25e1613e.png)
 
 *address Tag*：
+
 you can create your favorite address tag.
 
 *sign Message*：You need to be verified signatures
 
 *vanity Address Length*：
+
 I use four vanity Address Length, my address becomes as shown in the figure below, others can be seen, more eye-catching ~
 
 ![rongyaodizhiweishu](images/Screenshot_2015-12-03-11-05-11_net.bither.png)
@@ -79,14 +86,15 @@ You can try a lot and you will use bither easily.
 
 
 
-#####2.trade:
+##### 2.trade:
+
 For bither we also understand a basic structure and function list, then how do we trade it?
 
 *Others pay me Bitcoin:*
 
 Others can scan my QR-Code or enter the address sequence number to me Bitcoin transactions.
 
-#####注：You can whether the transaction has been confirmed by an indicator next to the transaction amount learned.
+##### 注：You can whether the transaction has been confirmed by an indicator next to the transaction amount learned.
 
 ![trade-me](images/Screenshot_2015-12-02-13-39-34_net_bither.png)
 
@@ -96,14 +104,16 @@ The same principle I can trade my Bitcoins to others.
 
 ![trade-others](images/Screenshot_2015-12-02-13-40-34_net.bither.png)
 
-#####3.Cold wallet
+##### 3.Cold wallet
+
 Cold wallet can store large amounts of offline bitcoin  wrapped in a phone (must be off the network), the private key is used to cold storage and off-line transaction signature, hot wallet on a networked mobile phone for sending and receiving transactions, cold wallet signature information is passed through the QR Code, convenient, and safe.
 
 How do we installed bither and connected to the network switch to cold wallet ?
 
 ![cutpurse](images/Screenshot_2015-12-02-17-46-38_net_bither.png)
 
-#####Tips：
+##### Tips：
+
 1. You can switch to cold wallet when you are not generated a private key, if you generate a private key is not to switch to cold wallet.
 2. When your phone is switched to the cooling wallet is not switched back to hot purse (so we can find an offline backup of smart phones, as your wallet cold, so Bitcoin offline stored in your wallet is very  safe).
 
@@ -115,7 +125,7 @@ Bither installed and in the case of off network run bither we will see this inte
 
 like hot wallet，Cold wallet can generate HD account and private key, hot wallet can monitor Bither cold , in other word, I can trade bitcoins in the cold wallet through the hot wallet, but requires cold wallet signature verification, and hot wallet get cold wallet after license allows, you can deal cold Bitcoin wallet.
 
-#####Part of the cold wallet interface
+##### Part of the cold wallet interface
 
 *1.Check Private Keys*:
 
@@ -146,8 +156,8 @@ Advanced Options stuff inside is not difficult to understand, we can try to use.
 bither hope to become serve all Bitcoin enthusiasts a safe and reliable product, we will continue to progress, thank you for your support
 
 Here is our Sina microblogging, hope a lot of attention.
- [@比太钱包] (<http://weibo.com/bither>) and twitter[@bithernet](https://twitter.com/bithernet)
- 
-Join us bither official QQ group: 219098359 in the group have our enthusiastic developers waiting for you to join!
 
+ [@比太钱包] (<http://weibo.com/bither>) and twitter[@bithernet](https://twitter.com/bithernet)
+
+Join us bither official QQ group: 219098359 in the group have our enthusiastic developers waiting for you to join!
 
