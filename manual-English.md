@@ -6,7 +6,7 @@
 
 #### How to use bither?
 
-It's so important to some users to want to use bither.how to use bither? It is easy to use bither.Once you have the proper use, you will be able to properly take good care of our bitcoin. So then please follow me  to learn how to use bither.
+* It's so important to some users to want to use bither.how to use bither? It is easy to use bither.Once you have the proper use, you will be able to properly take good care of our bitcoin. So then please follow me  to learn how to use bither.
 
 ##### 1. Hot wallet:
 
@@ -94,7 +94,7 @@ For bither we also understand a basic structure and function list, then how do w
 
 Others can scan my QR-Code or enter the address sequence number to me Bitcoin transactions.
 
-##### 注：You can whether the transaction has been confirmed by an indicator next to the transaction amount learned.
+* Tips: You can whether the transaction has been confirmed by an indicator next to the transaction amount learned.
 
 ![trade-me](images/Screenshot_2015-12-02-13-39-34_net_bither.png)
 
@@ -145,7 +145,7 @@ The interface With cold HD account and private key (the private key can add up t
 
 ![twoBtn](images/Screenshot_2015-12-03-13-18-12_net.bither.png)
 
-*3.设置*:
+*3.Settings*:
 
 ![settings](images/Screenshot_2015-12-03-13-24-07_n1et_bither.png)
 
@@ -157,7 +157,7 @@ bither hope to become serve all Bitcoin enthusiasts a safe and reliable product,
 
 Here is our Sina microblogging, hope a lot of attention.
 
- [@比太钱包] (<http://weibo.com/bither>) and twitter[@bithernet](https://twitter.com/bithernet)
+* [@比太钱包] (<http://weibo.com/bither>) and twitter[@bithernet](https://twitter.com/bithernet)
 
-Join us bither official QQ group: 219098359 in the group have our enthusiastic developers waiting for you to join!
+* Join us bither official QQ group: 219098359 in the group have our enthusiastic developers waiting for you to join!
 
